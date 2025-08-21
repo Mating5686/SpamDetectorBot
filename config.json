@@ -1,0 +1,14 @@
+
+{
+  "rules": {
+    "copy_paste": true,
+    "excessive_links": true,
+    "duplicate_text": true
+  },
+  "poll_interval_seconds": 10,
+  "input_file": "incoming_bids.csv",
+  "log_file": "logs/spam_log.json",
+  "confidence_threshold": 0.7
+}
+
+
